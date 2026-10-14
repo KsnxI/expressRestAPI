@@ -1,6 +1,6 @@
 const joi = require('joi')
 
-const categories = ['electronics', 'clothing', 'food', 'other']
+const categories = ['электроника', 'одежда', 'еда', 'другое']
 
 
 const createSchema = joi.object({
